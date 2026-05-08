@@ -12,13 +12,13 @@ This is a learning process, not finished knowledge.
 
 ## A note O_O
 
-Learning a programming language properly has genuinely become harder these days and I think AI is a big reason why. It's so easy to ask an AI for the answer that the brain never gets the chance to struggle, and struggle is where actual learning happens. That's a trap I'm trying to avoid dependcey of AI. I want to enjoy the process, including the confusion, the mistakes, and the huh? moments. That’s where growth actually happens.
+Learning a programming language properly has genuinely become harder these days and I think LLM is a big reason why. It's so easy to ask an LLM for the answer that the brain never gets the chance to struggle, and struggle is where actual learning happens. That's a trap I'm trying to avoid dependcey of LLM. I want to enjoy the process, including the confusion, the mistakes, and the huh? moments. That’s where growth actually happens.
 
 So I'm drawing a clear line for myself:
 
-- **AI is allowed for**: cleaning up my notes and writing fixing typos, restructuring messy markdown, explaining concepts I’m stuck on in plain language, and brainstorming ideas.
+- **LLM is allowed for**: cleaning up my notes and writing fixing typos, restructuring messy markdown, explaining concepts I’m stuck on in plain language, and brainstorming ideas.
 
-- **AI is NOT allowed for: writing the actual Rust code.** That's the part I'm here to learn, and outsourcing it to AI would defeat the entire point. I want my brain to struggle with the code, hit errors, read them, fix them, and figure things out on its own. The bugs are the lesson.
+- **LLM is NOT allowed for: writing the actual Rust code.** That's the part I'm here to learn, and outsourcing it to AI would defeat the entire point. I want my brain to struggle with the code, hit errors, read them, fix them, and figure things out on its own. The bugs are the lesson.
 
 ## Main resources
 
