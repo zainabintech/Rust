@@ -22,9 +22,9 @@ So I'm drawing a clear line for myself:
 
 ## Main resources
 
-- [The Rust Book](https://doc.rust-lang.org/book/) — the official book, my primary source.
-- [Rust Book (Brown University interactive edition)](https://rust-book.cs.brown.edu/) — same book with interactive quizzes and visualizations.
-- Anything else I find useful along the way.
+- [The Rust Book](https://doc.rust-lang.org/book/) — the official book.
+- [Rust Book (Brown University interactive edition)](https://rust-book.cs.brown.edu/) — same book with interactive quizzes and visualizations. my primary source
+- Anything else I find useful along the way (will add them in the resources folder).
 
 Someone who inspired me: [@bashbunni](https://github.com/bashbunni) <3. And [this video by Dr. Jonas Birch](https://youtu.be/6e3YDJVPVX8?si=hzkr80oN8Odi7DRJ), which made me realize some stuff.
 
