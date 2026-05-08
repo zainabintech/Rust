@@ -1,0 +1,18 @@
+D:\Rust\get-dependencies\target\debug\deps\selectors-0d04cbe0dcdfe309.d: C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\lib.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\attr.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\bloom.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\builder.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\context.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\matching.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\nth_index_cache.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\parser.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\sink.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\tree.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\visitor.rs D:\Rust\get-dependencies\target\debug\build\selectors-90de308073840f77\out/ascii_case_insensitive_html_attributes.rs
+
+D:\Rust\get-dependencies\target\debug\deps\libselectors-0d04cbe0dcdfe309.rmeta: C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\lib.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\attr.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\bloom.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\builder.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\context.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\matching.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\nth_index_cache.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\parser.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\sink.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\tree.rs C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\visitor.rs D:\Rust\get-dependencies\target\debug\build\selectors-90de308073840f77\out/ascii_case_insensitive_html_attributes.rs
+
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\lib.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\attr.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\bloom.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\builder.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\context.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\matching.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\nth_index_cache.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\parser.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\sink.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\tree.rs:
+C:\Users\Uni\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\selectors-0.25.0\visitor.rs:
+D:\Rust\get-dependencies\target\debug\build\selectors-90de308073840f77\out/ascii_case_insensitive_html_attributes.rs:
+
+# env-dep:OUT_DIR=D:\\Rust\\get-dependencies\\target\\debug\\build\\selectors-90de308073840f77\\out
