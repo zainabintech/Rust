@@ -46,6 +46,6 @@ If you want to join me in this learning journey, feel free to reach out >.<
 
 ## Progress
 
--  ⚆_⚆ (1 — Getting Started) 8/5/2026
-- 2 — Programming a Guessing Game
-- 3 — Common Programming Concepts
+- DONE (1 — Getting Started) 8/5/2026
+- (2 — Programming a Guessing Game)
+- (3 — Common Programming Concepts)
